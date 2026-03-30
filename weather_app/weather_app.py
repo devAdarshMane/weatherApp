@@ -12,7 +12,7 @@ import io
 import urllib.request
 
 # --- API CONFIGURATION ---
-API_KEY  = "4780165e19fc8f6720e66f953c6746a8"
+API_KEY  = "YOUR API KEY"
 BASE_URL = "https://api.openweathermap.org/data/2.5"
 ICON_URL = "https://openweathermap.org/img/wn/{}@2x.png"
 
